@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Amahle Seteni  
 
-<!--
-**Amahle-seteni/Amahle-Seteni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 *Aspiring Cloud & AI Developer passionate about building impactful digital solutions.*  
 
-Here are some ideas to get you started:
+🚀 Currently working on **Cloud Quote**, a cloud cost estimation app showcased at **Geekulcha Hackathon 2025**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me  
+- 🎓 Studied Office Administration at College of Cape Town, transitioning into tech & innovation.  
+- 🌐 Passionate about **cloud computing, AI, and web applications**.  
+- 🛠️ Skills: React.js | Node.js | GitHub | Vercel | Microsoft 365 | Cloud Platforms (AWS, Azure, GCP).  
+- ✨ Goal: Building tools that make cloud adoption easier and smarter for businesses.  
+
+---
+
+## 🔹 Projects  
+🔸 [**Cloud Quote**](https://cloud-quote.vercel.app/) – Compare AWS, Azure, and GCP costs instantly.  
+🔸 [**Portfolio Website**](https://github.com/Amahle-seteni/Amahle-Seteni-s-personal-portfolio-website) – Personal portfolio showcasing my journey.  
+
+---
+
+## 🔹 Connect with Me  
+🌍 [LinkedIn](https://www.linkedin.com/in/amahle-seteni-530572305/) | 📧 amahleseteni2@gmail.com  
+
+---
+
+⭐️ *“Keep building, keep learning, keep inspiring.”*  
